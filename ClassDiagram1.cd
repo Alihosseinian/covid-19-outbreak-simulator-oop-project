@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Virus">
+    <Position X="3.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAQIAABAAAAAAAAAAAACBAAAAEAIA=</HashCode>
+      <FileName>CVirus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="6.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BIACgBCAAAAFAEBCAAQAQBQAAAAACgQEIABFAAAABAU=</HashCode>
+      <FileName>CPerson.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Society">
+    <Position X="10" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gEQABgAAAAAABAAAEAAAAAAAAgAAAAAAAIAAoAEAAAA=</HashCode>
+      <FileName>CSociety.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="output_format">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

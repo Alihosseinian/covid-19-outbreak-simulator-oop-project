@@ -1,0 +1,65 @@
+Day 0 :
+Got sick today : [2]
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 1 :
+Got sick today : [1] [4] [5] [8] [10]
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 2 :
+Got sick today : [3] [6] [7] [9]
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 3 :
+Got sick today :
+Died today : [5] [6]
+Got cured today :
+-----------------------------------------------------------
+Day 4 :
+Got sick today :
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 5 :
+Got sick today :
+Died today : [8]
+Got cured today :
+-----------------------------------------------------------
+Day 6 :
+Got sick today :
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 7 :
+Got sick today :
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 8 :
+Got sick today :
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 9 :
+Got sick today :
+Died today :
+Got cured today :
+-----------------------------------------------------------
+Day 10 :
+Got sick today :
+Died today : [10]
+Got cured today : [2]
+-----------------------------------------------------------
+[1] : Alive and Sick : Sick day = 1 , Sickness level = 1
+[2] : Alive : Sick day = 0 , Cure day = 10
+[3] : Alive and Sick : Sick day = 2 , Sickness level = 2
+[4] : Alive and Sick : Sick day = 1 , Sickness level = 1
+[5] : Dead : Sick day = 1 , Death day = 3
+[6] : Dead : Sick day = 2 , Death day = 3
+[7] : Alive and Sick : Sick day = 2 , Sickness level = 2
+[8] : Dead : Sick day = 1 , Death day = 5
+[9] : Alive and Sick : Sick day = 2 , Sickness level = 2
+[10] : Dead : Sick day = 1 , Death day = 10
